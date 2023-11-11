@@ -1,23 +1,23 @@
-# Sommaire des Quizzes
+# Sommaire des Quiz
 
 Hello !
 
-Pour le week-end à Goué, on s'est dit qu'en plus des activités on allait leur faire des petits quizzes pour tester leurs connaissances sur les pays qu'ils ont visité !
+Pour le week-end à Goué, on s'est dit qu'en plus des activités, on allait leur faire des petits quiz pour tester leurs connaissances sur les pays qu'ils ont visité !
 
 ## Consignes
-Il y a 11 quizzes pour les 11 pays visités. Merci de vous positionner sur un quiz (seul ou en couple) et de l'indiquer ensuite dans la conversation WhatsApp pour éviter les doublons.
+Il y a 11 quiz pour les 11 pays visités. Merci de vous positionner sur un quiz (seul ou en couple) et de l'indiquer ensuite dans la conversation WhatsApp pour éviter les doublons.
 
-Les quizzes contiennent 30 questions avec leurs réponses. Veuillez sélectionner 5 à 7 questions dans votre quiz pour maintenir une durée raisonnable.
+Les quiz contiennent 30 questions avec leurs réponses. Veuillez sélectionner 5 à 7 questions dans votre quiz pour maintenir une durée raisonnable.
 
 ## Sommaire
-- [Quiz Cambodge](Quizzes/Cambodge.md)
-- [Quiz Corée du Sud](Quizzes/CoreeDuSud.md)
-- [Quiz Indonésie](Quizzes/Indonesie.md)
-- [Quiz Japon](Quizzes/Japon.md)
-- [Quiz Laos](Quizzes/Laos.md) - Animé par Charles et Margot
-- [Quiz Malaisie](Quizzes/Malaisie.md)
-- [Quiz Nouvelle-Calédonie](Quizzes/NouvelleCaledonie.md) - Animé par Margaux et Vincent
-- [Quiz Nouvelle-Zélande](Quizzes/NouvelleZelande.md)
-- [Quiz Thaïlande](Quizzes/Thailand.md)
-- [Quiz Vanuatu](Quizzes/Vanuatu.md)
-- [Quiz Vietnam](Quizzes/Vietnam.md) - Animé par Pierre-Antoine
+- [Quiz Cambodge](Quiz/Cambodge.md)
+- [Quiz Corée du Sud](Quiz/CoreeDuSud.md)
+- [Quiz Indonésie](Quiz/Indonesie.md)
+- [Quiz Japon](Quiz/Japon.md)
+- [Quiz Laos](Quiz/Laos.md) - Animé par Charles et Margot
+- [Quiz Malaisie](Quiz/Malaisie.md)
+- [Quiz Nouvelle-Calédonie](Quiz/NouvelleCaledonie.md) - Animé par Margaux et Vincent
+- [Quiz Nouvelle-Zélande](Quiz/NouvelleZelande.md)
+- [Quiz Thaïlande](Quiz/Thailand.md)
+- [Quiz Vanuatu](Quiz/Vanuatu.md)
+- [Quiz Vietnam](Quiz/Vietnam.md) - Animé par Pierre-Antoine

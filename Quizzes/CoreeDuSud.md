@@ -32,4 +32,3 @@
 | 28 | Quelle est la ville hôte des Jeux olympiques d'hiver de 2018 en Corée du Sud ?                 | Pyeongchang                     |
 | 29 | Quelle est la spécialité de l'île de Jeju connue pour ses femmes plongeuses ?                  | Haenyeo                         |
 | 30 | Quel est le nom du palais royal situé à Séoul, connu pour ses portes colorées ?                | Palais de Changdeokgung         |
-``

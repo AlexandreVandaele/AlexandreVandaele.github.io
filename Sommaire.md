@@ -1,6 +1,8 @@
-# Page d'Accueil des Quizzes
+# Sommaire des Quizzes
 
-Bienvenue sur la page d'accueil des quizzes des Nounous ! Chaque quiz correspond à un pays que les Nounous ont visité.
+Hello !
+
+Pour le week-end à Goué, on s'est dit qu'en plus des activités on allait leur faire des petits quizzes pour tester leurs connaissances sur les pays qu'ils ont visité !
 
 ## Consignes
 Il y a 11 quizzes pour les 11 pays visités. Merci de vous positionner sur un quiz (seul ou en couple) et de l'indiquer ensuite dans la conversation WhatsApp pour éviter les doublons.
@@ -19,8 +21,3 @@ Les quizzes contiennent 30 questions avec leurs réponses. Veuillez sélectionne
 - [Quiz Thaïlande](Quizzes/Thailand.md)
 - [Quiz Vanuatu](Quizzes/Vanuatu.md)
 - [Quiz Vietnam](Quizzes/Vietnam.md)
-
----
-
-## À Propos
-Cette collection de quizzes a été créée pour célébrer et revivre les incroyables voyages des Nounous autour du monde. Bonne chance et amusez-vous bien !

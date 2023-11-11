@@ -14,10 +14,10 @@ Les quizzes contiennent 30 questions avec leurs réponses. Veuillez sélectionne
 - [Quiz Corée du Sud](Quizzes/CoreeDuSud.md)
 - [Quiz Indonésie](Quizzes/Indonesie.md)
 - [Quiz Japon](Quizzes/Japon.md)
-- [Quiz Laos](Quizzes/Laos.md)
+- [Quiz Laos](Quizzes/Laos.md) - Animé par Charles et Margot
 - [Quiz Malaisie](Quizzes/Malaisie.md)
 - [Quiz Nouvelle-Calédonie](Quizzes/NouvelleCaledonie.md)
 - [Quiz Nouvelle-Zélande](Quizzes/NouvelleZelande.md)
 - [Quiz Thaïlande](Quizzes/Thailand.md)
 - [Quiz Vanuatu](Quizzes/Vanuatu.md)
-- [Quiz Vietnam](Quizzes/Vietnam.md)
+- [Quiz Vietnam](Quizzes/Vietnam.md) - Animé par Pierre-Antoine

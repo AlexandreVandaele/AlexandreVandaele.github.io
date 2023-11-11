@@ -1,3 +1,5 @@
+[Retour au Sommaire](../Sommaire.md)
+
 ## Vanuatu
 
 | N° | Question                                                                                                            | Réponse                                |

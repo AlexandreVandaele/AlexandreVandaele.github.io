@@ -16,7 +16,7 @@ Les quizzes contiennent 30 questions avec leurs réponses. Veuillez sélectionne
 - [Quiz Japon](Quizzes/Japon.md)
 - [Quiz Laos](Quizzes/Laos.md) - Animé par Charles et Margot
 - [Quiz Malaisie](Quizzes/Malaisie.md)
-- [Quiz Nouvelle-Calédonie](Quizzes/NouvelleCaledonie.md)
+- [Quiz Nouvelle-Calédonie](Quizzes/NouvelleCaledonie.md) - Animé par Margaux et Vincent
 - [Quiz Nouvelle-Zélande](Quizzes/NouvelleZelande.md)
 - [Quiz Thaïlande](Quizzes/Thailand.md)
 - [Quiz Vanuatu](Quizzes/Vanuatu.md)

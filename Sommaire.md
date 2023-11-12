@@ -18,6 +18,6 @@ Les quiz contiennent 30 questions avec leurs réponses. Veuillez sélectionner 5
 - [Quiz Malaisie](Quiz/Malaisie.md)
 - [Quiz Nouvelle-Calédonie](Quiz/NouvelleCaledonie.md) - Animé par Margaux et Vincent
 - [Quiz Nouvelle-Zélande](Quiz/NouvelleZelande.md) - Animé par Anaïs et Charles
-- [Quiz Thaïlande](Quiz/Thailand.md)
+- [Quiz Thaïlande](Quiz/Thailand.md) - Animé par Antoine et Tiphaine
 - [Quiz Vanuatu](Quiz/Vanuatu.md)
 - [Quiz Vietnam](Quiz/Vietnam.md) - Animé par Pierre-Antoine

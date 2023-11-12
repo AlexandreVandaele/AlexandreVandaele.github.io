@@ -11,11 +11,11 @@ Les quiz contiennent 30 questions avec leurs réponses. Veuillez sélectionner 5
 
 ## Sommaire
 - [Quiz Cambodge](Quiz/Cambodge.md) - Animé par Arthur et Lucile
-- [Quiz Corée du Sud](Quiz/CoreeDuSud.md) Animé par Alexandre
+- [Quiz Corée du Sud](Quiz/CoreeDuSud.md) - Animé par Alexandre
 - [Quiz Indonésie](Quiz/Indonesie.md)
 - [Quiz Japon](Quiz/Japon.md) - Animé par Mélanie et Paul
 - [Quiz Laos](Quiz/Laos.md) - Animé par Charles et Margot
-- [Quiz Malaisie](Quiz/Malaisie.md)
+- [Quiz Malaisie](Quiz/Malaisie.md) - Animé par Edgar
 - [Quiz Nouvelle-Calédonie](Quiz/NouvelleCaledonie.md) - Animé par Margaux et Vincent
 - [Quiz Nouvelle-Zélande](Quiz/NouvelleZelande.md) - Animé par Anaïs et Charles
 - [Quiz Thaïlande](Quiz/Thailand.md) - Animé par Antoine et Tiphaine

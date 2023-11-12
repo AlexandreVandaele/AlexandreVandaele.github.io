@@ -10,14 +10,14 @@ Il y a 11 quiz pour les 11 pays visités. Merci de vous positionner sur un quiz 
 Les quiz contiennent 30 questions avec leurs réponses. Veuillez sélectionner 5 à 7 questions dans votre quiz pour maintenir une durée raisonnable.
 
 ## Sommaire
-- [Quiz Cambodge](Quiz/Cambodge.md)
+- [Quiz Cambodge](Quiz/Cambodge.md) - Animé par Arthur et Lucile
 - [Quiz Corée du Sud](Quiz/CoreeDuSud.md)
 - [Quiz Indonésie](Quiz/Indonesie.md)
-- [Quiz Japon](Quiz/Japon.md)
+- [Quiz Japon](Quiz/Japon.md) - Animé par Mélanie et Paul
 - [Quiz Laos](Quiz/Laos.md) - Animé par Charles et Margot
 - [Quiz Malaisie](Quiz/Malaisie.md)
 - [Quiz Nouvelle-Calédonie](Quiz/NouvelleCaledonie.md) - Animé par Margaux et Vincent
-- [Quiz Nouvelle-Zélande](Quiz/NouvelleZelande.md)
+- [Quiz Nouvelle-Zélande](Quiz/NouvelleZelande.md) - Animé par Anaïs et Charles
 - [Quiz Thaïlande](Quiz/Thailand.md)
 - [Quiz Vanuatu](Quiz/Vanuatu.md)
 - [Quiz Vietnam](Quiz/Vietnam.md) - Animé par Pierre-Antoine
